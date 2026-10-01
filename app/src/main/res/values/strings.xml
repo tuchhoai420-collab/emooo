@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">EMO Pet</string>
+    <string name="emo_name">EMO</string>
+    <string name="tab_emo">EMO</string>
+    <string name="tab_chat">Chat</string>
+    <string name="tab_games">Juegos</string>
+    <string name="tab_status">Estado</string>
+    <string name="battery_label">Batería</string>
+    <string name="happiness_label">Felicidad</string>
+    <string name="affection_label">Afecto</string>
+    <string name="energy_label">Energía</string>
+    <string name="status_ready">En línea y listo</string>
+    <string name="action_feed">Cargar Batería</string>
+    <string name="action_pet">Acariciar</string>
+    <string name="action_dance">Bailar</string>
+    <string name="action_play">Jugar</string>
+</resources>

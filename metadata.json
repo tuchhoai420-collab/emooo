@@ -1,0 +1,6 @@
+{
+  "name": "EMO Pet",
+  "description": "Tu compañero robot virtual interactivo con IA Géminis, expresiones emocionales animadas, juegos y rol inmersivo",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
